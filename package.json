@@ -1,5 +1,5 @@
 {
-  "name": "openfga-poc",
+  "name": "poc-openfga",
   "version": "0.0.0-semantically-released",
   "description": "This is a demo for openFGA utilizing Relationship-Based Access Control (ReBAC)",
   "main": "dist/index.js",
@@ -7,10 +7,10 @@
   "author": "Mahmoud Mraisi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmraisi/openfga-poc"
+    "url": "https://github.com/mmraisi/poc-openfga"
   },
   "bugs": {
-    "url": "https://github.com/mmraisi/openfga-poc/issues"
+    "url": "https://github.com/mmraisi/poc-openfga/issues"
   },
   "scripts": {
     "start": "ts-node src/index.ts"
@@ -23,7 +23,8 @@
   "keywords": [
     "openfga",
     "authorization",
-    "ReBAC"
+    "ReBAC",
+    "poc"
   ],
   "files": [
     "dist"
